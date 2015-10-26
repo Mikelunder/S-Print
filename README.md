@@ -14,7 +14,7 @@ S-Print es una zapatilla inteligente que permite comprobar si la forma de pisar 
 
 
 ##El equipo
-S-Print se desarrolló por los miembros del Equipo Blanco:
+S-Print fue ideado y desarrollado por los miembros del Equipo Blanco:
 - Jesús Rodríguez
 - Sonia Martínez Martín
 - Elena Arráez Álvarez
