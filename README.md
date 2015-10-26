@@ -10,7 +10,7 @@ Este proyecto se realizó durante el <a href="http://www.fundaciontelefonica.com
 ##La idea
 S-Print es una zapatilla inteligente que permite comprobar si la forma de pisar del usuario es la correcta, permitiendo así prevenir lesiones y aumentar el rendimiento deportivo. Además cuenta con una plataforma web que permite obtener un estudio personalizado de la evolución de la pisada completa durante sesiones de entrenamiento y un informe con otros parámetros estadísticos. 
 
-<img src=https://github.com/eArraez/S-Print/blob/master/photos/Zapatilla.jpg width="402" height="300" /> <img src=https://github.com/eArraez/S-Print/blob/master/photos/EvaluaPisada.jpeg width="402" height="300" />
+<img src=https://github.com/eArraez/S-Print/blob/master/photos/Zapatilla.jpg width="405" height="300" />  <img src=https://github.com/eArraez/S-Print/blob/master/photos/EvaluaPisada.jpeg width="405" height="300" />
 
 
 
