@@ -1,5 +1,5 @@
 # S-Print
-Prototipo de zapatilla inteligente con sensores Thinking Things de Telefónica.
+Prototipo de zapatilla inteligente usando sensores Thinking Things de Telefónica.
 
 
 ##El evento 
