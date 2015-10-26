@@ -3,7 +3,7 @@ Prototipo de zapatilla inteligente usando sensores Thinking Things de Telefónic
 
 
 ##El evento 
-Este proyecto se realizó durante el <a href="http://www.fundaciontelefonica.com/empleabilidad/hackathon-todos-incluidos/madrid/"> Hackathon 'Todos Incluidos' </a> (#HackathonMAD , #somoscapacesdetodo) celebrado entre los días 23 y 25 de octubre de 2015 en el espacio Fundación Telefónica de Madrid. Este evento fue organizado por Fundación Telefónica, Telefónica I+D y otros colaboradores.
+El proyecto S-Print se realizó durante el <a href="http://www.fundaciontelefonica.com/empleabilidad/hackathon-todos-incluidos/madrid/"> Hackathon 'Todos Incluidos' </a> (#HackathonMAD , #somoscapacesdetodo) celebrado entre los días 23 y 25 de octubre de 2015 en el espacio Fundación Telefónica de Madrid. Este evento fue organizado por Fundación Telefónica, Telefónica I+D y otros colaboradores.
 
 
 ##La idea
