@@ -3,7 +3,7 @@ Prototipo de zapatilla inteligente con sensores Thinking Things de Telefónica.
 
 
 ##El evento 
-Este proyecto se realizó durante el <a href="http://www.fundaciontelefonica.com/empleabilidad/hackathon-todos-incluidos/madrid/"> Hackathon Todos Incluidos </a> (#HackathonMAD , #somoscapacesdetodo) organizado por Fundación Telefónica, Telefónica I+D y otros colaboradorescelebrado entre los días 23 y 25 de octubre de 2015 en el espacio Fundación Telefónica de Madrid.
+Este proyecto se realizó durante el <a href="http://www.fundaciontelefonica.com/empleabilidad/hackathon-todos-incluidos/madrid/"> Hackathon 'Todos Incluidos' </a> (#HackathonMAD , #somoscapacesdetodo) celebrado entre los días 23 y 25 de octubre de 2015 en el espacio Fundación Telefónica de Madrid. Este evento fue organizado por Fundación Telefónica, Telefónica I+D y otros colaboradores.
 
 
 ##La idea
