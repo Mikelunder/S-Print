@@ -15,10 +15,11 @@ S-Print es una zapatilla inteligente que permite comprobar si la forma de pisar 
 
 ##El equipo
 S-Print fue ideado y desarrollado por los miembros del Equipo Blanco:
-- Jesús Rodríguez
+- Miguel Herrero Grueso
 - Sonia Martínez Martín
 - Elena Arráez Álvarez
-- Miguel Herrero Grueso
+- Jesús Rodríguez-Quiñones Galindo
+
 
 ##Hardware
 Se empleó un kit básico de sensores basados en la tecnología <a href="http://www.thinkingthings.telefonica.com">Thinking Things</a> de Telefónica:
