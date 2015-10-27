@@ -28,4 +28,6 @@ Se empleó un kit básico de sensores basados en la tecnología <a href="http://
 
 <img src=https://github.com/eArraez/S-Print/blob/master/photos/ThinkingThings.JPG width="350" height="300" />
 
-
+##Software
+La plataforma web se realizó con una plantilla Joombla. Para visualizar los datos de los sensores en tiempo real se empleó un panel de <a href="https://freeboard.io">freeboard</a> con distintos widgets para cada gráfico: sparkline, gauge y map.
+<img src=https://github.com/eArraez/S-Print/blob/master/photos/ej_entrenamiento1.png width="350" height="300" />
