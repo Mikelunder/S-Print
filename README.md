@@ -3,7 +3,7 @@ Prototipo de zapatilla inteligente usando sensores Thinking Things de Telefónic
 
 
 ##El evento 
-El proyecto S-Print se realizó durante el <a href="http://www.fundaciontelefonica.com/empleabilidad/hackathon-todos-incluidos/madrid/"> Hackathon 'Todos Incluidos' </a> (#HackathonMAD , #somoscapacesdetodo) celebrado entre los días 23 y 25 de octubre de 2015 en el espacio Fundación Telefónica de Madrid. Este evento fue organizado por Fundación Telefónica, Telefónica I+D y otros colaboradores.
+El proyecto S-Print se realizó durante el <a href="http://www.fundaciontelefonica.com/empleabilidad/hackathon-todos-incluidos/madrid/" target="_blank"> Hackathon 'Todos Incluidos' </a> (#HackathonMAD , #somoscapacesdetodo) celebrado entre los días 23 y 25 de octubre de 2015 en el espacio Fundación Telefónica de Madrid. Este evento fue organizado por Fundación Telefónica, Telefónica I+D y otros colaboradores.
 
 
 ##La idea
@@ -22,7 +22,7 @@ S-Print fue ideado y desarrollado por los miembros del Equipo Blanco:
 
 
 ##Hardware
-Se empleó un kit básico de sensores basados en la tecnología <a href="http://www.thinkingthings.telefonica.com">Thinking Things</a> de Telefónica:
+Se empleó un kit básico de sensores basados en la tecnología <a href="http://www.thinkingthings.telefonica.com" target="_blank">Thinking Things</a> de Telefónica:
 - Módulo ambiente: sensor de luminiscencia (el sensor de presión no estaba disponible)
 - Módulo notificador: LED RGB + Buzzer
 
@@ -32,7 +32,7 @@ Se empleó un kit básico de sensores basados en la tecnología <a href="http://
 
 
 ##Software
-La plataforma web se realizó con una plantilla Joombla. Para visualizar los datos de los sensores en tiempo real se empleó un panel de <a href="https://freeboard.io">freeboard</a> con distintos widgets para cada gráfico: sparkline, gauge y map.
+La plataforma web se realizó con una plantilla Joombla. Para visualizar los datos de los sensores en tiempo real se empleó un panel de <a href="https://freeboard.io" target="_blank">freeboard</a> con distintos widgets para cada gráfico: sparkline, gauge y map.
 <p align="center">
 <img src=https://github.com/eArraez/S-Print/blob/master/photos/ej_entrenamiento1.png width="500" height="200" />
 </p>
