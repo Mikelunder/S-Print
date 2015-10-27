@@ -32,7 +32,7 @@ Se empleó un kit básico de sensores basados en la tecnología <a href="http://
 
 
 ##Software
-La plataforma web se realizó con una plantilla Joombla. Para visualizar los datos de los sensores en tiempo real se empleó un panel de <a href="https://freeboard.io" target="_blank">freeboard</a> con distintos widgets para cada gráfico: sparkline, gauge y map.
+La plataforma web se realizó con una plantilla Joomla. Para visualizar los datos de los sensores en tiempo real se empleó un panel de <a href="https://freeboard.io" target="_blank">freeboard</a> con distintos widgets para cada gráfico: sparkline, gauge y map.
 <p align="center">
 <img src=https://github.com/eArraez/S-Print/blob/master/photos/ej_entrenamiento1.png width="500" height="200" />
 </p>
