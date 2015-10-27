@@ -27,7 +27,7 @@ Se empleó un kit básico de sensores basados en la tecnología <a href="http://
 - Módulo notificador: LED RGB + Buzzer
 
 <p align="center">
-<img src=https://github.com/eArraez/S-Print/blob/master/photos/ThinkingThings.JPG width="250" height="200" /> <img src=https://github.com/eArraez/S-Print/blob/master/photos/TT_green.JPG width="250" height="200" />
+<img src=https://github.com/eArraez/S-Print/blob/master/photos/ThinkingThings.JPG width="250" height="200" /> <img src=https://github.com/eArraez/S-Print/blob/master/photos/TT_green.jpg width="250" height="200" />
 </p>
 
 
